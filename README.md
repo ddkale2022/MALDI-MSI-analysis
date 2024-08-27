@@ -10,7 +10,7 @@ This repo contains
 [mass spectrometry image analysis of example data](MALDI-MSI.ipynb)
 
 
-Another dataset, (work under progress) is related to [MSI-metabolomics-dataset-flux-analysis-tumour](https://metaspace2020.eu/project/MSH_MSI_SISA_2023?tab=members)
+Another dataset, (work under progress) is related to [MSI-metabolomics-dataset-flux-analysis-tumour](https://metaspace2020.eu/project/MSH_MSI_SISA_2023?tab=datasets)
 
 ---
 
